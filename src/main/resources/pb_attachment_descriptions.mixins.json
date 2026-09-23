@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "dev.night.pb_attachment_descriptions.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AttachmentItemBuilderMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
